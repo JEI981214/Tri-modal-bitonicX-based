@@ -12,6 +12,8 @@ Please refer to the above publication if you use this code. Thank you.
 
 The demo file is main.m.
 
+Note: Before running main.m, we need to type "mex anisotropic2_mex.cpp" and "mex xrankopen2.cpp" in the command line window.
+
 Do not hesitate to contact me if you meet any problems when using this code.
 
 Author: Yuchan Jie
