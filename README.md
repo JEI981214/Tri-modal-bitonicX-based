@@ -2,7 +2,7 @@
 
 This package contains the MATLAB code which is associated with the following paper:
 
-Yuchan Jie, Xiaosong Li* Fuqiang Zhou, and Tao Wang "Tri-modal medical image fusion and denoising  based on bitonicX filtering " ,IEEE Transactions on Instrumentation and Measurement,
+Jie Y, Li X, Zhou F, et al. Tri-modal medical image fusion and denoising based on bitonicX filtering[J]. IEEE Transactions on Instrumentation and Measurement, 2023 (99): 1-1.
 
 Edited by Yuchan Jie.
 
